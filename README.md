@@ -38,7 +38,7 @@ Task and project tracker designed to analyze and improve time usage.
 Java desktop application for personal finance tracking with gamification.
 
 - Tracks income and expenses through a structured interface  
-- Features a virtual desktop pet tied to financial behavior  
+- Features a virtual desktop pet whose health depends on your financial behavior  
 - Encourages better spending habits through simple feedback systems  
 
 ---
