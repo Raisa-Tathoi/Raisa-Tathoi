@@ -13,7 +13,7 @@ UBC Computer Science student focused on building practical tools and data-driven
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Java, JavaScript, Python, R  
+- **Languages:** Java, JavaScript, Python, R, SQL  
 - **Frontend:** React, HTML, CSS  
 - **Tools/Frameworks:** Java Swing, Django, Node.js, Bootstrap  
 
