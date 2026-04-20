@@ -39,7 +39,8 @@ Java desktop application for personal finance tracking with gamification.
 
 - Tracks income and expenses through a structured interface  
 - Features a virtual desktop pet whose health depends on your financial behavior  
-- Encourages better spending habits through simple feedback systems  
+- Encourages better spending habits through simple feedback systems
+- Future Improvement: Converting to web application
 
 ---
 
