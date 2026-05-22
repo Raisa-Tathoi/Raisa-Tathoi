@@ -21,6 +21,14 @@ UBC Computer Science student focused on building practical tools and data-driven
 
 ### In-Progress Projects
 
+#### Medical Study Chatbot (Clinical QA System)
+AI-powered medical study tool designed to improve reliability in exam preparation.
+
+- Answers questions only using verified, curated training sources (retrieval-based design)
+- Building to reduce hallucinations by restricting responses to trusted data
+- Focusing on medical exam preparation and structured knowledge retrieval
+- Building using Python with document processing and semantic search pipeline
+
 #### Tasky
 Task and project tracker designed to analyze and improve time usage.
 
