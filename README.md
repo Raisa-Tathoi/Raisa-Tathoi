@@ -5,10 +5,11 @@ UBC Computer Science student focused on building practical tools and data-driven
 ---
 
 ### 🚀 Interests
-- Productivity & habit-building apps  
-- Machine Learning  
+- Machine Learning
+- Productivity & habit-building apps    
 - Data Analysis  
-- Formula 1  
+- Formula 1
+- silly little projects!
 
 ---
 
