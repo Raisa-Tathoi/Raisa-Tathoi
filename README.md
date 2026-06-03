@@ -33,7 +33,8 @@ AI-powered medical study tool designed to improve reliability in exam preparatio
 #### Tasky
 Task and project tracker designed to analyze and improve time usage.
 
-- Tracks daily and weekly activity with chart visualizations  
+- Tracks daily and weekly activity with chart visualizations
+- logs work sessions to a weekly editable calendar view timesheet  
 - Includes a live timer for focused work sessions  
 - Stores data locally (no authentication required)  
 - Expanding to include goal-setting and gamified features  
